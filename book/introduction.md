@@ -16,7 +16,7 @@ There are excellent Ruby resources out there, some of my personal favorites are:
 
 As developers, we all search for that small, comfortable, fast & efficient tool to add to our belt for doing our magic in a quick & predictable way - that's Sinatra in a nutshell and the reason why I've written this book. It's intention is to serve as an educational reference or recipe book showing real world problems and real world solutions in the most elegant way possible.
 
-Sinatra is so simple & straightforward that most online examples never seem to go further than the introductory cruft. At [Wixel], we use Sinatra for real-time [production systems](https://zenboards.co) and so do many others.
+Sinatra is so simple & straightforward that most online examples never seem to go further than the introductory cruft. At [Underwulf], we use Sinatra for real-time [production systems](https://indiemaker.com) and so do many others.
 
 There seems to be a misconception about Sinatra being better suited for small applications or services, but that's not entirely true.
 
