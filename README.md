@@ -1,4 +1,4 @@
-# Rocking Sinatra
+# Rocking with Sinatra
 
 A free book teaching advanced, production-oriented Sinatra development by building a Udemy-like course marketplace.
 
